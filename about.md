@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Alaskan-born civil engineer coding on the side. 
+
+'Let's code everything' 
+[except nature. that can stay as it is until we learn to replicate it]
